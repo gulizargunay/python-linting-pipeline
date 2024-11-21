@@ -64,5 +64,6 @@ def test():
     print("Hello, World")
 
 def bad_code():
-    x=5
+#    x=5
+    value=5
     print("Bad formatting")
