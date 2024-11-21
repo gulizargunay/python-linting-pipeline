@@ -1,4 +1,3 @@
-from typing import List, TypeVar, Union, Any, Protocol
 
 def reverse_string(s: str) -> str:
     """
