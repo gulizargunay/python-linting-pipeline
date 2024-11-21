@@ -63,6 +63,6 @@ def find_longest_word(sentence: str) -> str:
 def test():
     print("Hello, World")
 
-def bad_code():
+def fixed_code():
     x=5
     print("The value of x is {5}")
