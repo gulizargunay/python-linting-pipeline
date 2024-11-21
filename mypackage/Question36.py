@@ -65,4 +65,4 @@ def test():
 
 def bad_code():
     x=5
-    print("Bad formatting")
+    print("The value of x is {5}")
