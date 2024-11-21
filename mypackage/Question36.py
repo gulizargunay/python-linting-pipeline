@@ -65,4 +65,4 @@ def test():
 
 def fixed_code():
     x=5
-    print("The value of x is {5}")
+    print("The value of x is {x}")
